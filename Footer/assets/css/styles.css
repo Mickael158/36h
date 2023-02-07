@@ -1,0 +1,30 @@
+#footer {
+  color: white;
+}
+
+.row {
+  color: white;
+}
+
+#footer {
+}
+
+.text-muted {
+  --bs-text-opacity: 1;
+  color: #abadaf!important;
+}
+
+.link-secondary {
+  color: #cdcfd1!important;
+}
+
+a {
+  color: var(--bs-link-color);
+  text-decoration: underline;
+}
+
+a {
+  color: var(--bs-link-color);
+  text-decoration: underline;
+}
+

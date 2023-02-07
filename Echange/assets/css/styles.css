@@ -1,0 +1,10 @@
+.btn {
+  border-radius: 14px;
+  width: 85;
+  height: 35;
+}
+
+.card-body {
+  background-color: var(--bs-black);
+}
+
